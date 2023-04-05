@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048883865894",
+    "project_id": "dynamiclinkapp-dbe86",
+    "storage_bucket": "dynamiclinkapp-dbe86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048883865894:android:33f2b40b8de3f1c517f9e7",
+        "android_client_info": {
+          "package_name": "com.example.dynamic_link_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048883865894-sirdfh76oc5c3u6sg8j6n5n62slv603q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqHeCBgLcEtnvxAjI8VLs80N1yCy6qCyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048883865894-sirdfh76oc5c3u6sg8j6n5n62slv603q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
