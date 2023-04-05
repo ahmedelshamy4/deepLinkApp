@@ -10,7 +10,6 @@ class FireBaseDeepLink {
     required String title,
     String? image,
     String? description,
-    String? route,
   }) async {
     String url = 'https://testtestlink.page.link';
     String content = 'https://testtestlink.page.link/start?id=$id';
